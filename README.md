@@ -1,0 +1,3 @@
+# Lesson Seven
+
+Ok, jQuery... 
