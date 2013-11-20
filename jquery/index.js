@@ -12,7 +12,7 @@ $(function() {
         renderItem(item);
     });
 
-    $list.on('click', function(e) {
+    $list.on('click', '[data-delete]', function() {
         var id;
         if(id = $(this).attr('data-delete')) {
             list.some(function(item, idx) {
