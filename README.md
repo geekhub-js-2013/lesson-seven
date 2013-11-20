@@ -1,3 +1,5 @@
 # Lesson Seven
 
-Ok, jQuery... 
+Ok, jQuery...
+
+And require!
